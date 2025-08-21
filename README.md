@@ -29,18 +29,7 @@ Também conhecido como **AssassinoShinigami1987** 🕶️
 
 ## 🌐 Conecte-se comigo
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-hacker%20mode-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-darkred?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-darkviolet?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Email-hacker%20green?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-darkslategray?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
----
-
-## 🐍 Snake Hacker
-![Snake animation](https://github.com/AssassinoShinigami/AssassinoShinigami/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
